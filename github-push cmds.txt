@@ -1,0 +1,9 @@
+After doing modifications u need to type 
+    "git add ."
+
+Then type
+    "git commit -m "Your text"
+
+Then type
+    "git push origin main"
+
